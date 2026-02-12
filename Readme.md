@@ -63,7 +63,7 @@ You can also configure a custom [DataItemTemplate](https://docs.devexpress.com/A
 * [How to create and configure a HyperLink column at runtime](https://github.com/DevExpress-Examples/how-to-create-and-configure-a-hyperlink-column-at-runtime-e308)
 * [How to change styles for a hyperlink column](https://github.com/DevExpress-Examples/how-to-change-styles-for-a-hyperlink-column-e2661)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-hyperlink-column-url-based-on-several-column-values&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-hyperlink-column-url-based-on-several-column-values&~~~was_helpful=no)
 
